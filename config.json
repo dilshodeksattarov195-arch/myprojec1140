@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyralidate",
+        "uuid": 9153060,
+        "checksum": "9z1nas"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
